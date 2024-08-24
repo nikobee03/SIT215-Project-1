@@ -53,10 +53,3 @@ def calculate_path_cost(distance, width, terrain, slope):
 ```
 
 This function calculates the total cost of a path based on various accessibility factors, allowing the system to evaluate and compare different routes effectively.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/17452009/4082166e-a297-469e-ac7a-fbf3b1ecc1bb/Assignment-1.pdf
